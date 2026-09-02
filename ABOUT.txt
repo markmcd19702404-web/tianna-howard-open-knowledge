@@ -1,0 +1,13 @@
+TIANNA HOWARD ADVENTURES OPEN KNOWLEDGE BUNDLE
+
+Target format: Google Open Knowledge Format v0.2
+Source: ../tianna-knowledge-site/dist/public-knowledge.json
+
+Build from the workspace root:
+  node okf/tools/build.mjs
+
+Validate from the bundle root:
+  python tools/validate_okf.py
+
+The bundle is separate from tianna-knowledge-site/dist and is not deployed by
+the Firebase configuration.
