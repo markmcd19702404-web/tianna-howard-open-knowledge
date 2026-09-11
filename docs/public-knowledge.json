@@ -1,0 +1,188 @@
+{
+  "export_id": "public.tianna_howard_historical_fiction.v1",
+  "catalog_release": "0.14.2",
+  "prepared": "2026-09-02",
+  "language": "en",
+  "visibility": "public_spoiler_safe",
+  "purpose": [
+    "website content",
+    "retailer and library metadata",
+    "AI discoverability",
+    "future structured-data generation"
+  ],
+  "genre_rule": "The series is historical fiction. Real history supplies the foundation; Tianna's investigation and each story resolution are fictional.",
+  "identity_links": {
+    "website": "https://www.tiannahowardadventures.com/",
+    "amazon_author": "https://www.amazon.com/M-L-Woodward/e/B0FHFGQNXP",
+    "organization_same_as": [
+      "https://www.youtube.com/@TiannaHowardAdventures",
+      "https://www.facebook.com/TiannaHowardAdventures/",
+      "https://www.instagram.com/tiannahowardadventures/",
+      "https://www.tiktok.com/@tiannahowardadventures",
+      "https://www.pinterest.com/TiannaHowardAdventures/"
+    ],
+    "open_library_author": "https://openlibrary.org/authors/OL16579341A/M.L._Woodward",
+    "bookbub_author": "https://www.bookbub.com/authors/m-l-woodward"
+  },
+  "entities": [
+    {
+      "id": "series.tianna_howard_adventures",
+      "type": "BookSeries",
+      "name": "Tianna Howard Adventures",
+      "author_id": "person.ml_woodward",
+      "audience": "Readers aged 11–14",
+      "genres": [
+        "Historical fiction",
+        "Historical adventure",
+        "Mystery",
+        "Action and adventure"
+      ],
+      "description": "The Tianna Howard Adventures are historical fiction mysteries by M.L. Woodward for readers aged 11–14, combining real history and global locations with codes, hidden evidence and fictional investigations.",
+      "fantasy_or_magic": false
+    },
+    {
+      "id": "book.beale_treasure",
+      "type": "Book",
+      "name": "Tianna and the Mystery of the Beale Treasure",
+      "series_position": 1,
+      "publication_status": "published",
+      "date_published": "2025-11-24",
+      "canonical_url": "https://www.tiannahowardadventures.com/the-mystery-of-the-beale-treasure",
+      "editions": [
+        {
+          "format": "Kindle ebook",
+          "asin": "B0G3NVVFDZ"
+        },
+        {
+          "format": "Paperback",
+          "asin": "B0G3W6ZSQG",
+          "isbn_13": "9798275826616"
+        },
+        {
+          "format": "Hardcover",
+          "asin": "B0G3WXW4C7",
+          "isbn_13": "9798275835335"
+        }
+      ],
+      "protagonist_age": 12,
+      "description": "A fast-paced historical adventure inspired by the legendary Beale ciphers, following twelve-year-old Tianna Howard on an international trail of codes, danger and discovery.",
+      "historical_basis": "The 1885 Beale Papers and their three numerical ciphers.",
+      "history_status": "The alleged expedition and buried treasure are disputed.",
+      "fiction_boundary": "Tianna, her investigation and the story's resolution are fictional.",
+      "safe_topic_terms": [
+        "Beale Papers",
+        "Beale ciphers",
+        "legendary Beale treasure",
+        "purported treasure"
+      ],
+      "open_library": {
+        "work": "https://openlibrary.org/works/OL45946355W",
+        "edition": "https://openlibrary.org/books/OL62507939M/Tianna_and_the_Mystery_of_the_Beale_Treasure"
+      }
+    },
+    {
+      "id": "book.mask_of_a_faun",
+      "type": "Book",
+      "name": "Tianna and Michelangelo’s Mask of a Faun",
+      "series_position": 2,
+      "publication_status": "published",
+      "date_published": "2026-02-09",
+      "canonical_url": "https://www.tiannahowardadventures.com/michelangelos-mask-of-a-faun",
+      "editions": [
+        {
+          "format": "Kindle ebook",
+          "asin": "B0GMD8Q2SG"
+        },
+        {
+          "format": "Paperback",
+          "asin": "B0GMJJDJ6V",
+          "isbn_13": "9798247548706"
+        },
+        {
+          "format": "Hardcover",
+          "asin": "B0GMJD7FWN",
+          "isbn_13": "9798247553434"
+        }
+      ],
+      "protagonist_age": 13,
+      "description": "A wartime art mystery inspired by the real Mask of a Faun, a Renaissance sculpture attributed to the young Michelangelo and missing since 1944.",
+      "historical_basis": "A Renaissance marble attributed to Michelangelo that was removed from Castle of Poppi during German looting in 1944.",
+      "history_status": "The real work remains missing as of 2026-09-01.",
+      "fiction_boundary": "Tianna, her investigation and the story's resolution are fictional.",
+      "safe_topic_terms": [
+        "Mask of a Faun",
+        "Michelangelo attribution",
+        "lost art",
+        "Second World War art looting"
+      ],
+      "open_library": {
+        "work": "https://openlibrary.org/works/OL45946470W",
+        "edition": "https://openlibrary.org/books/OL62508063M/Tianna_and_Michelangelo%27s_Mask_of_a_Faun"
+      }
+    },
+    {
+      "id": "book.lost_inca_gold",
+      "type": "Book",
+      "name": "Tianna and the Lost Inca Gold",
+      "series_position": 3,
+      "publication_status": "in development",
+      "date_published": null,
+      "protagonist_age": 14,
+      "description": "An upcoming historical adventure inspired by Atahualpa’s ransom and the legendary lost Inca treasure of the Llanganates Mountains.",
+      "historical_basis": "Atahualpa's imprisonment, ransom offer and execution in 1533, together with later Rumiñahui, Valverde and Llanganates traditions.",
+      "history_status": "The Llanganates hidden-treasure story is legendary and unverified.",
+      "fiction_boundary": "Tianna's investigation, the specific route and the story outcome are fictional or still in development.",
+      "safe_topic_terms": [
+        "Atahualpa",
+        "Inca ransom",
+        "Llanganates treasure legend",
+        "Derrotero de Valverde"
+      ]
+    },
+    {
+      "id": "book.vanishing_crown_jewels",
+      "type": "Book",
+      "name": "Tianna and the Vanishing Crown Jewels",
+      "series_position": 4,
+      "publication_status": "planned",
+      "date_published": null,
+      "protagonist_age": "nearly 15",
+      "description": "A planned historical mystery inspired by the still-unsolved disappearance of the Irish Crown Jewels from Dublin Castle in 1907.",
+      "historical_basis": "The 1907 disappearance of the Irish Crown Jewels.",
+      "history_status": "Detailed historical thesis not yet audited for production metadata.",
+      "fiction_boundary": "The investigation and resolution will be fictional and remain in planning.",
+      "safe_topic_terms": [
+        "Irish Crown Jewels",
+        "Dublin Castle",
+        "1907 disappearance"
+      ]
+    }
+  ],
+  "answer_units": [
+    {
+      "question": "Are the Tianna Howard Adventures based on true stories?",
+      "answer": "They are historical fiction inspired by real mysteries, people, places and events. Tianna, her investigations and the story resolutions are fictional."
+    },
+    {
+      "question": "What age are the Tianna Howard Adventures for?",
+      "answer": "The books are written primarily for readers aged 11–14 and are positioned as upper middle grade."
+    },
+    {
+      "question": "Are the books fantasy?",
+      "answer": "No. The adventures use real history and logical problem-solving without magic or supernatural powers."
+    },
+    {
+      "question": "Who writes the Tianna Howard Adventures?",
+      "answer": "M.L. Woodward is the author of the Tianna Howard Adventures."
+    }
+  ],
+  "excluded": [
+    "spoilers and fictional end states",
+    "Lumen Codex structure",
+    "future artifact sequence",
+    "unpublished Book 3 antagonist details",
+    "unconfirmed release dates",
+    "legacy Beale ASIN B0FG89GR4P and ISBN 9798289154712",
+    "unsupported historical certainty"
+  ]
+}

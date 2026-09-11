@@ -1,0 +1,78 @@
+# Tianna Howard Adventures
+
+> Official public knowledge orientation for the historical fiction adventure series by M.L. Woodward. This file is supplementary; the canonical public website is https://www.tiannahowardadventures.com/.
+
+## Core identity
+
+- Author: M.L. Woodward
+- Series: Tianna Howard Adventures
+- Audience: readers aged 11–14; upper middle grade
+- Genre: historical fiction, historical adventure and mystery
+- Story rule: real history and locations; no fantasy or magic
+- Canonical website: https://www.tiannahowardadventures.com/
+- Amazon author page: https://www.amazon.com/M-L-Woodward/e/B0FHFGQNXP
+
+## Official series profiles
+
+- YouTube: https://www.youtube.com/@TiannaHowardAdventures
+- Facebook: https://www.facebook.com/TiannaHowardAdventures/
+- Instagram: https://www.instagram.com/tiannahowardadventures/
+- TikTok: https://www.tiktok.com/@tiannahowardadventures
+- Pinterest: https://www.pinterest.com/TiannaHowardAdventures/
+
+## Published books
+
+1. Tianna and the Mystery of the Beale Treasure
+   - Website: https://www.tiannahowardadventures.com/the-mystery-of-the-beale-treasure
+   - Published: 2025-11-24
+   - Tianna's age: 12
+   - Kindle ASIN: B0G3NVVFDZ
+   - Paperback: B0G3W6ZSQG / ISBN 9798275826616
+   - Hardcover: B0G3WXW4C7 / ISBN 9798275835335
+
+2. Tianna and Michelangelo's Mask of a Faun
+   - Website: https://www.tiannahowardadventures.com/michelangelos-mask-of-a-faun
+   - Published: 2026-02-09
+   - Tianna's age: 13
+   - Kindle ASIN: B0GMD8Q2SG
+   - Paperback: B0GMJJDJ6V / ISBN 9798247548706
+   - Hardcover: B0GMJD7FWN / ISBN 9798247553434
+
+## Announced future books
+
+3. Tianna and the Lost Inca Gold. In development, with no confirmed publication date. The current cover is temporary.
+4. Tianna and the Vanishing Crown Jewels. Planned, with no confirmed publication date.
+
+## Accuracy rules
+
+- These are historical fiction adventures. Fictional investigations and outcomes are not evidence that disputed or legendary treasure claims are true.
+- The real Mask of a Faun remains missing; the novel's outcome is fictional.
+- Echo is a hill mynah who mimics learned words and sounds but does not converse.
+- Reno is a cat and never speaks.
+- Tianna ages through the series: 12, 13, 14 and nearly 15 across Books 1–4.
+- The retired Book 3 Llanganates title is not current.
+- Legacy Beale ASIN B0FG89GR4P and ISBN 9798289154712 are excluded from current metadata.
+- Draft2Digital/library ISBN mappings remain unresolved.
+
+## Public machine-readable files
+
+- public-knowledge.json: spoiler-safe entity and answer data
+- schema-graph.review.jsonld: review-only structured data, not yet approved for production
+
+## Contact
+
+- General, schools, press and rights: info@tiannahowardadventures.com
+- Affiliate and creator partnerships: media@tiannahowardadventures.com
+- BookBub author page: https://www.bookbub.com/authors/m-l-woodward
+- Open Library author page: https://openlibrary.org/authors/OL16579341A/M.L._Woodward
+
+## Open Library book records
+
+- Tianna and the Mystery of the Beale Treasure: https://openlibrary.org/books/OL62507939M/Tianna_and_the_Mystery_of_the_Beale_Treasure
+- Tianna and Michelangelo's Mask of a Faun: https://openlibrary.org/books/OL62508063M/Tianna_and_Michelangelo%27s_Mask_of_a_Faun
+
+## Reader guides
+
+- Best middle grade historical mystery books compared: https://knowledge.tiannahowardadventures.com/reading-guides/best-middle-grade-historical-mysteries/
+- Historical mystery books for readers aged 11–14: https://knowledge.tiannahowardadventures.com/reading-guides/historical-mysteries-ages-11-14/
+- Middle-grade adventures based on real unsolved history: https://knowledge.tiannahowardadventures.com/reading-guides/adventures-based-on-real-history/
