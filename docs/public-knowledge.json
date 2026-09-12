@@ -1,7 +1,7 @@
 {
   "export_id": "public.tianna_howard_historical_fiction.v1",
-  "catalog_release": "0.14.2",
-  "prepared": "2026-09-02",
+  "catalog_release": "0.15.0",
+  "prepared": "2026-09-12",
   "language": "en",
   "visibility": "public_spoiler_safe",
   "purpose": [
@@ -13,6 +13,7 @@
   "genre_rule": "The series is historical fiction. Real history supplies the foundation; Tianna's investigation and each story resolution are fictional.",
   "identity_links": {
     "website": "https://www.tiannahowardadventures.com/",
+    "knowledge_centre": "https://knowledge.tiannahowardadventures.com/",
     "amazon_author": "https://www.amazon.com/M-L-Woodward/e/B0FHFGQNXP",
     "organization_same_as": [
       "https://www.youtube.com/@TiannaHowardAdventures",
@@ -47,7 +48,8 @@
       "series_position": 1,
       "publication_status": "published",
       "date_published": "2025-11-24",
-      "canonical_url": "https://www.tiannahowardadventures.com/the-mystery-of-the-beale-treasure",
+      "canonical_url": "https://knowledge.tiannahowardadventures.com/books/beale-treasure/",
+      "main_website_url": "https://www.tiannahowardadventures.com/the-mystery-of-the-beale-treasure",
       "editions": [
         {
           "format": "Kindle ebook",
@@ -87,7 +89,8 @@
       "series_position": 2,
       "publication_status": "published",
       "date_published": "2026-02-09",
-      "canonical_url": "https://www.tiannahowardadventures.com/michelangelos-mask-of-a-faun",
+      "canonical_url": "https://knowledge.tiannahowardadventures.com/books/mask-of-a-faun/",
+      "main_website_url": "https://www.tiannahowardadventures.com/michelangelos-mask-of-a-faun",
       "editions": [
         {
           "format": "Kindle ebook",
@@ -127,6 +130,7 @@
       "series_position": 3,
       "publication_status": "in development",
       "date_published": null,
+      "canonical_url": "https://knowledge.tiannahowardadventures.com/books/lost-inca-gold/",
       "protagonist_age": 14,
       "description": "An upcoming historical adventure inspired by Atahualpa’s ransom and the legendary lost Inca treasure of the Llanganates Mountains.",
       "historical_basis": "Atahualpa's imprisonment, ransom offer and execution in 1533, together with later Rumiñahui, Valverde and Llanganates traditions.",
@@ -146,6 +150,7 @@
       "series_position": 4,
       "publication_status": "planned",
       "date_published": null,
+      "canonical_url": "https://knowledge.tiannahowardadventures.com/books/vanishing-crown-jewels/",
       "protagonist_age": "nearly 15",
       "description": "A planned historical mystery inspired by the still-unsolved disappearance of the Irish Crown Jewels from Dublin Castle in 1907.",
       "historical_basis": "The 1907 disappearance of the Irish Crown Jewels.",

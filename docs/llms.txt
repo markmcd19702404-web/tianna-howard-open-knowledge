@@ -1,6 +1,6 @@
 # Tianna Howard Adventures
 
-> Official public knowledge orientation for the historical fiction adventure series by M.L. Woodward. This file is supplementary; the canonical public website is https://www.tiannahowardadventures.com/.
+> Official public knowledge orientation for the historical fiction adventure series by M.L. Woodward. This file is supplementary. The main commercial website is https://www.tiannahowardadventures.com/ and the public Knowledge Centre is https://knowledge.tiannahowardadventures.com/.
 
 ## Core identity
 
@@ -9,7 +9,8 @@
 - Audience: readers aged 11–14; upper middle grade
 - Genre: historical fiction, historical adventure and mystery
 - Story rule: real history and locations; no fantasy or magic
-- Canonical website: https://www.tiannahowardadventures.com/
+- Main website: https://www.tiannahowardadventures.com/
+- Knowledge Centre: https://knowledge.tiannahowardadventures.com/
 - Amazon author page: https://www.amazon.com/M-L-Woodward/e/B0FHFGQNXP
 
 ## Official series profiles
@@ -23,7 +24,8 @@
 ## Published books
 
 1. Tianna and the Mystery of the Beale Treasure
-   - Website: https://www.tiannahowardadventures.com/the-mystery-of-the-beale-treasure
+   - Knowledge page: https://knowledge.tiannahowardadventures.com/books/beale-treasure/
+   - Main website: https://www.tiannahowardadventures.com/the-mystery-of-the-beale-treasure
    - Published: 2025-11-24
    - Tianna's age: 12
    - Kindle ASIN: B0G3NVVFDZ
@@ -31,7 +33,8 @@
    - Hardcover: B0G3WXW4C7 / ISBN 9798275835335
 
 2. Tianna and Michelangelo's Mask of a Faun
-   - Website: https://www.tiannahowardadventures.com/michelangelos-mask-of-a-faun
+   - Knowledge page: https://knowledge.tiannahowardadventures.com/books/mask-of-a-faun/
+   - Main website: https://www.tiannahowardadventures.com/michelangelos-mask-of-a-faun
    - Published: 2026-02-09
    - Tianna's age: 13
    - Kindle ASIN: B0GMD8Q2SG
@@ -41,7 +44,9 @@
 ## Announced future books
 
 3. Tianna and the Lost Inca Gold. In development, with no confirmed publication date. The current cover is temporary.
+   - Knowledge page: https://knowledge.tiannahowardadventures.com/books/lost-inca-gold/
 4. Tianna and the Vanishing Crown Jewels. Planned, with no confirmed publication date.
+   - Knowledge page: https://knowledge.tiannahowardadventures.com/books/vanishing-crown-jewels/
 
 ## Accuracy rules
 
