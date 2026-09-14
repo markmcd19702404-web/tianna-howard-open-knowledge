@@ -108,7 +108,7 @@ function head({ title, description, url, image, type = 'website', schema }) {
 function videoSchema(v) {
   const url = `${ORIGIN}/videos/${v.slug}/`;
   return {'@context':'https://schema.org','@graph':[
-    {'@type':'VideoObject','@id':`${url}#video`,name:v.title,description:v.description,thumbnailUrl:`https://i.ytimg.com/vi/${v.id}/maxresdefault.jpg`,uploadDate:v.upload,duration:v.duration,embedUrl:`https://www.youtube.com/embed/${v.id}`,contentUrl:`https://www.youtube.com/watch?v=${v.id}`,publisher:{'@id':`${ORIGIN}/#organization`},mainEntityOfPage:url},
+    {'@type':'VideoObject','@id':`${url}#video`,name:v.title,description:v.description,thumbnailUrl:`https://i.ytimg.com/vi/${v.id}/maxresdefault.jpg`,uploadDate:v.upload,duration:v.duration,embedUrl:`https://www.youtube-nocookie.com/embed/${v.id}`,publisher:{'@id':`${ORIGIN}/#organization`},mainEntityOfPage:url},
     {'@type':'Organization','@id':`${ORIGIN}/#organization`,name:'Tianna Howard Adventures',url:`${ORIGIN}/`,sameAs:['https://www.youtube.com/@TiannaHowardAdventures']},
     {'@type':'BreadcrumbList',itemListElement:[{'@type':'ListItem',position:1,name:'Home',item:`${ORIGIN}/`},{'@type':'ListItem',position:2,name:'Videos',item:`${ORIGIN}/videos/`},{'@type':'ListItem',position:3,name:v.title,item:url}]}
   ]};

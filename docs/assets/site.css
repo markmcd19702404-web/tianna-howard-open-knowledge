@@ -7,3 +7,8 @@
 @media(max-width:720px){.article-head,.article-body{padding-left:1.25rem;padding-right:1.25rem}.article-head{padding-top:4rem}.related>div{grid-template-columns:1fr}.answer{font-size:1.15rem}}
 @media(max-width:720px){.book-intro{grid-template-columns:1fr}.book-cover{max-width:280px;margin:auto}}
 .comparison-wrap{overflow-x:auto;margin:1.75rem 0 2.5rem}.comparison{width:100%;border-collapse:collapse;font:1rem/1.55 var(--sans);background:#faf7f1}.comparison th,.comparison td{padding:.9rem 1rem;border:1px solid var(--line);vertical-align:top;text-align:left}.comparison th{background:var(--ink);color:var(--gold2);font-family:var(--serif);font-size:1.05rem}.comparison tbody tr:nth-child(even){background:#f1e9dc}.disclosure{font:1rem/1.6 var(--sans);border-left:3px solid var(--gold);padding:1rem 1.2rem;background:#faf7f1;margin:1.5rem 0 2.5rem}.comparison-note{font:.92rem/1.55 var(--sans);color:var(--muted);margin-top:-1.5rem;margin-bottom:2.5rem}
+
+/* Keyboard navigation and user-requested reduced motion. */
+:focus-visible{outline:3px solid var(--brown);outline-offset:4px}
+header :focus-visible,footer :focus-visible{outline-color:var(--gold2)}
+@media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
