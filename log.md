@@ -1,5 +1,15 @@
 # Bundle Update Log
 
+## 2026-09-19: Automation and connector status
+
+* ChatGPT GitHub access is confirmed for this repository, with read/write permissions available for safe, reversible Knowledge Centre maintenance.
+* Metricool is connected to the Tianna Howard Adventures brand. Connected networks include Facebook, Instagram, TikTok and YouTube. The Content Marketing automation now checks Metricool analytics before choosing its highest-value action and treats newly connected or lagging zero values cautiously.
+* Five active marketing automations now cover Discovery & Site, Content Marketing, Authority & Outreach, Publishing Intelligence and Marketing Director functions, with specialist Amazon Ads analysis, reader-funnel review and history-content work folded into the existing task limit.
+* Amazon Ads remains semi-manual. No Amazon Ads plugin is currently available in the connected ChatGPT plugin directory, so campaign changes and reporting must not be represented as directly connected. Do not pursue Amazon Attribution or direct-advertiser API registration merely to supply this workflow.
+* GSC Wizard is not active because its trial has ended and it requires a paid subscription. Under the zero-spend rule, do not subscribe without explicit approval.
+* No Spacemail connector is available in the current ChatGPT plugin directory. Authority & Outreach should research and prepare/queue outreach rather than substitute Gmail automatically. Do not expose mailbox credentials to an unapproved third-party bridge.
+* Automation guardrails remain: zero spend without explicit approval, no Amazon Ads/KDP/billing/distribution changes, no spam/community posting, approved assets only, protect unpublished Book 3/4 material, and keep an audit trail.
+
 ## 2026-09-14: Discovery and site audit
 
 * Live technical crawl: all 22 sitemap URLs returned HTTP 200, were indexable, had self-referencing canonicals, and had no critical/high audit issues.
