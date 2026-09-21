@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
   <url><loc>https://knowledge.tiannahowardadventures.com/</loc><lastmod>2026-09-12</lastmod></url>
   <url><loc>https://knowledge.tiannahowardadventures.com/author/</loc><lastmod>2026-09-12</lastmod></url>
   <url><loc>https://knowledge.tiannahowardadventures.com/series/</loc><lastmod>2026-09-12</lastmod></url>
@@ -17,9 +18,57 @@
   <url><loc>https://knowledge.tiannahowardadventures.com/reading-guides/adventures-based-on-real-history/</loc><lastmod>2026-09-12</lastmod></url>
   <url><loc>https://knowledge.tiannahowardadventures.com/reading-guides/best-middle-grade-historical-mysteries/</loc><lastmod>2026-09-12</lastmod></url>
   <url><loc>https://knowledge.tiannahowardadventures.com/videos/</loc><lastmod>2026-09-12</lastmod></url>
-  <url><loc>https://knowledge.tiannahowardadventures.com/videos/beale-ciphers/</loc><lastmod>2026-09-14</lastmod></url>
-  <url><loc>https://knowledge.tiannahowardadventures.com/videos/lost-inca-treasure/</loc><lastmod>2026-09-14</lastmod></url>
-  <url><loc>https://knowledge.tiannahowardadventures.com/videos/mask-of-a-faun/</loc><lastmod>2026-09-14</lastmod></url>
-  <url><loc>https://knowledge.tiannahowardadventures.com/videos/wwii-art-looting/</loc><lastmod>2026-09-14</lastmod></url>
+  <url>
+    <loc>https://knowledge.tiannahowardadventures.com/videos/beale-ciphers/</loc>
+    <lastmod>2026-09-14</lastmod>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/PRM6cQdfAwQ/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>The Beale Ciphers: Real Treasure or Brilliant Hoax?</video:title>
+      <video:description>A concise introduction to the Beale Papers, the one solved cipher and the two numerical codes that remain unsolved.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/PRM6cQdfAwQ</video:player_loc>
+      <video:duration>54</video:duration>
+      <video:publication_date>2026-02-01T22:18:04-08:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://knowledge.tiannahowardadventures.com/videos/lost-inca-treasure/</loc>
+    <lastmod>2026-09-14</lastmod>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/BvUnySyejsw/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>This Lost Treasure Is Worth Billions (And Still Missing)</video:title>
+      <video:description>The history behind Atahualpa’s ransom and the unverified legend of lost Inca treasure in the Llanganates Mountains.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/BvUnySyejsw</video:player_loc>
+      <video:duration>88</video:duration>
+      <video:publication_date>2026-04-15T20:46:12-07:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://knowledge.tiannahowardadventures.com/videos/mask-of-a-faun/</loc>
+    <lastmod>2026-09-14</lastmod>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/kNf3rQ_-PmQ/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>Finding the World's Most Famous Missing Sculpture</video:title>
+      <video:description>The real history of Michelangelo’s Mask of a Faun, a Renaissance sculpture missing since the Second World War.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/kNf3rQ_-PmQ</video:player_loc>
+      <video:duration>106</video:duration>
+      <video:publication_date>2026-02-20T08:01:00-08:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
+  <url>
+    <loc>https://knowledge.tiannahowardadventures.com/videos/wwii-art-looting/</loc>
+    <lastmod>2026-09-14</lastmod>
+    <video:video>
+      <video:thumbnail_loc>https://i.ytimg.com/vi/VzrTT-69RJs/maxresdefault.jpg</video:thumbnail_loc>
+      <video:title>The WWII Art Heist That Still Isn’t Over</video:title>
+      <video:description>How Nazi organizations stole cultural objects across occupied Europe and why the search for missing works continues.</video:description>
+      <video:player_loc>https://www.youtube-nocookie.com/embed/VzrTT-69RJs</video:player_loc>
+      <video:duration>85</video:duration>
+      <video:publication_date>2026-03-20T02:38:22-07:00</video:publication_date>
+      <video:family_friendly>yes</video:family_friendly>
+    </video:video>
+  </url>
   <url><loc>https://knowledge.tiannahowardadventures.com/resources/teacher-reader-activity-pack/</loc><lastmod>2026-09-12</lastmod></url>
 </urlset>

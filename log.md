@@ -1,5 +1,11 @@
 # Bundle Update Log
 
+## 2026-09-21: Video sitemap discovery data
+
+* Added Google's video sitemap extension to the existing sitemap for the four published history-video pages.
+* Reused the titles, descriptions, YouTube player URLs, thumbnails, durations and publication dates already shown in each page's validated `VideoObject` data. No new claims or media were introduced.
+* Validated the sitemap as XML, confirmed all four entries contain Google's required video fields, parsed every JSON-LD block, checked every local page link and reran the OKF validator.
+
 ## 2026-09-19: Automation and connector status
 
 * ChatGPT GitHub access is confirmed for this repository, with read/write permissions available for safe, reversible Knowledge Centre maintenance.
