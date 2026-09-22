@@ -1,5 +1,16 @@
 # Bundle Update Log
 
+## 2026-09-22: Beale evidence and activity-pack discovery package
+
+* Metricool comparison used post-level data for 22 August to 22 September. The brand was only connected on 19 September, so older YouTube fields and some reach fields remain incomplete and were not treated as zero performance.
+* TikTok: the Beale history photo was the strongest comparable post in the available sample, with 31 views, 1 like and 1 comment. The Beale paperback video recorded 30 views. Instagram: the Beale paperback Reel recorded 17 views, 15 reach and 1 like. Facebook: the Monuments Men history series produced small but consistent interactions, while link-led posts remained suitable for directing readers to evidence pages.
+* Selected topic: what the solved Beale cipher proves, and what it does not prove.
+* Improved the public Beale cipher guide with a checkable-evidence section, an explicit limit on what the NSA archive authenticates, a current modified date and a direct link to the free cipher activity. Commit: `75728ba4c69f11be49d88918cbe68fbe90b8215f`.
+* Scheduled an adapted BookTok photo post using the approved Book 1 cover for 23 September at 10:00 Asia/Shanghai. Metricool ID: `379777159`. It carries the own-brand commercial disclosure and remains pending.
+* Scheduled a Facebook evidence post linking to the guide for 23 September at 12:00 Asia/Shanghai. Metricool ID: `379776375`. It remains pending.
+* Chosen hours came from Metricool's current network heatmaps. Instagram and YouTube were not used for this package because the available data was too thin to justify near-duplicate posting, and no approved 15 to 45 second vertical video matched this exact evidence-led hook.
+* Factual source: https://www.nsa.gov/Helpful-Links/NSA-FOIA/Declassification-Transparency-Initiatives/Historical-Releases/Beale-Papers/
+
 ## 2026-09-21: Video sitemap discovery data
 
 * Added Google's video sitemap extension to the existing sitemap for the four published history-video pages.
