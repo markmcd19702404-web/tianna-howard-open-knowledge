@@ -2,7 +2,8 @@
 
 ## 2026-09-24: Publication verification and authority opportunity
 
-* Metricool post `379776375`, Facebook: PUBLISHED at 12:00 Asia/Shanghai on 23 September 2026. Live URL: https://facebook.com/122196727094931842/posts/122197422656931842
+* Metricool post `379776375`, Facebook: PUBLISHED. It was scheduled for 12:00 Asia/Shanghai on 23 September 2026; Facebook analytics recorded it at 12:03. Live URL: https://facebook.com/122196727094931842/posts/122197422656931842
+* Early Facebook result at 09:15 Asia/Shanghai on 24 September: 1 impression, reach 1, and no clicks or interactions yet.
 * Metricool post `379777159`, TikTok: FAILED at its scheduled time of 10:00 Asia/Shanghai on 23 September 2026. TikTok rejected the 1280 x 2048 JPEG because both dimensions must not exceed Metricool's 1080-pixel limit for this route. Do not retry this cover-only creative.
 * Vetted Reading With Your Kids as a zero-cost interview opportunity. Its guest page openly welcomes children's authors without a fee, and its feed remained active in September 2026 with current middle-grade author interviews.
 * Prepared a tailored pitch about using the Beale mystery to help readers distinguish evidence from legend, supported by the free cipher activity pack. The draft is queued privately and was not sent because the authorised Tianna Spacemail route is unavailable.
