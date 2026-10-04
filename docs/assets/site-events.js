@@ -11,6 +11,23 @@
     }, details || {}));
   }
 
+  function currentBook() {
+    var match = window.location.pathname.match(/^\/books\/(beale-treasure|mask-of-a-faun)\/?$/);
+    return match ? match[1] : "unknown";
+  }
+
+  function retailerFormat(link) {
+    var edition = link.closest("article");
+    var heading = edition && edition.querySelector("h3");
+    if (!heading) return "unknown";
+
+    var label = (heading.textContent || "").toLowerCase();
+    if (label.indexOf("paperback") !== -1) return "paperback";
+    if (label.indexOf("hardcover") !== -1) return "hardcover";
+    if (label.indexOf("kindle") !== -1 || label.indexOf("ebook") !== -1) return "ebook";
+    return "unknown";
+  }
+
   document.addEventListener("click", function (event) {
     var link = event.target.closest("a[href]");
     if (!link) return;
@@ -22,8 +39,14 @@
       return;
     }
 
-    if (/^(www\.)?amazon\.com$/.test(url.hostname) && /\/dp\//.test(url.pathname)) {
-      sendEvent("retailer_click", link, { retailer: "amazon_us" });
+    var amazonMatch = url.pathname.match(/\/dp\/([A-Z0-9]{10})/i);
+    if (/^(www\.)?amazon\.(com|co\.uk)$/.test(url.hostname) && amazonMatch) {
+      sendEvent("retailer_click", link, {
+        retailer: url.hostname.endsWith(".co.uk") ? "amazon_uk" : "amazon_us",
+        book_id: currentBook(),
+        book_format: retailerFormat(link),
+        product_id: amazonMatch[1].toUpperCase()
+      });
       return;
     }
 
