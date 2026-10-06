@@ -31,6 +31,7 @@
    - Kindle ASIN: B0G3NVVFDZ
    - Paperback: B0G3W6ZSQG / ISBN 9798275826616
    - Hardcover: B0G3WXW4C7 / ISBN 9798275835335
+   - Independent editorial review: 5/5 from Kamil Wróbel for Readers’ Favorite. See the attributed excerpt and official seal on the Knowledge page. This is not an Amazon customer rating or a contest award; an external review URL has not been independently verified.
 
 2. Tianna and Michelangelo's Mask of a Faun
    - Knowledge page: https://knowledge.tiannahowardadventures.com/books/mask-of-a-faun/
@@ -62,7 +63,7 @@
 ## Public machine-readable files
 
 - public-knowledge.json: spoiler-safe entity and answer data
-- schema-graph.review.jsonld: review-only structured data, not yet approved for production
+- The Beale book page includes an individual Review in its JSON-LD, separate from customer ratings.
 
 ## Contact
 
