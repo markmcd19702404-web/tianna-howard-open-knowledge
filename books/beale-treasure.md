@@ -43,6 +43,10 @@ Tianna, her investigation and the story's resolution are fictional.
 | Paperback | B0G3W6ZSQG | 9798275826616 |
 | Hardcover | B0G3WXW4C7 | 9798275835335 |
 
+# Editorial review
+
+Kamil Wróbel reviewed *Tianna and the Mystery of the Beale Treasure* for Readers’ Favorite and rated it 5 out of 5 stars. “It is incredibly satisfying to watch a child’s sharp mind consistently outwit a dangerous crew of adults.” This is an independent editorial review, separate from Amazon customer ratings and any contest award. [Attributed excerpt and official seal](https://knowledge.tiannahowardadventures.com/books/beale-treasure/#readers-favorite-review). An external Readers’ Favorite review URL was not independently verified on 6 October 2026.
+
 # Library catalogue
 
 * [Open Library work](https://openlibrary.org/works/OL45946355W)
