@@ -1,7 +1,7 @@
 {
   "export_id": "public.tianna_howard_historical_fiction.v1",
-  "catalog_release": "0.15.0",
-  "prepared": "2026-10-06",
+  "catalog_release": "0.15.1",
+  "prepared": "2026-10-07",
   "language": "en",
   "visibility": "public_spoiler_safe",
   "purpose": [
@@ -23,7 +23,8 @@
       "https://www.pinterest.com/TiannaHowardAdventures/"
     ],
     "open_library_author": "https://openlibrary.org/authors/OL16579341A/M.L._Woodward",
-    "bookbub_author": "https://www.bookbub.com/authors/m-l-woodward"
+    "bookbub_author": "https://www.bookbub.com/authors/m-l-woodward",
+    "linkedin_author": "https://www.linkedin.com/in/m-l-woodward-809961441"
   },
   "entities": [
     {
@@ -92,9 +93,8 @@
           "best_rating": 5,
           "excerpt": "It is incredibly satisfying to watch a child’s sharp mind consistently outwit a dangerous crew of adults.",
           "book_page_review_url": "https://knowledge.tiannahowardadventures.com/books/beale-treasure/#readers-favorite-review",
-          "external_review_url": null,
-          "external_url_status": "Not independently verified as of 2026-10-06",
-          "evidence_observed": "2026-10-06"
+          "external_review_url": "https://readersfavorite.com/book-review/tianna-and-the-mystery-of-the-beale-treasure",
+          "evidence_observed": "2026-10-07"
         }
       ]
     },
