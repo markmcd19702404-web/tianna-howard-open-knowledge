@@ -1,5 +1,13 @@
 # Bundle Update Log
 
+## 2026-10-06: Beale Readers’ Favorite editorial review
+
+* Added the supplied Kamil Wróbel 5/5 Readers’ Favorite review and official Five Stars seal to the public Beale book page. The exact attributed quote is visible, and the Book JSON-LD now references one individual Review with 5/5 Rating, reviewer and publisher. No AggregateRating or Amazon review claim.
+* Added matching evidence to `docs/public-knowledge.json`, the reference export, the Markdown book record and `llms.txt`. Updated only the Beale sitemap lastmod to 2026-10-06.
+* Live page observation on 6 October showed the visible review and 144 × 144 seal loaded; the same page’s JSON-LD parsed and contained the linked Review. Direct browser access to the JSON and sitemap files was blocked by the client, so their public delivery was not independently verified in this check.
+* Exact public Readers’ Favorite review URL not verified; no external review URL was fabricated. Google Sites copy/layout and GSC/Bing submission URLs are in [the handoff](discovery/readers-favorite-beale-review-2026-10-06.md). Google Sites was not edited. No re-indexing or publication of social creative is claimed.
+* Seal-use policy: https://readersfavorite.com/stickers.htm
+
 ## 2026-09-24: Publication verification and authority opportunity
 
 * Metricool post `379776375`, Facebook: PUBLISHED. It was scheduled for 12:00 Asia/Shanghai on 23 September 2026; Facebook analytics recorded it at 12:03. Live URL: https://facebook.com/122196727094931842/posts/122197422656931842
