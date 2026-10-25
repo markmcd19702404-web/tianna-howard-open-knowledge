@@ -1,7 +1,7 @@
 {
   "export_id": "public.tianna_howard_historical_fiction.v1",
-  "catalog_release": "0.15.1",
-  "prepared": "2026-10-07",
+  "catalog_release": "0.15.2",
+  "prepared": "2026-10-25",
   "language": "en",
   "visibility": "public_spoiler_safe",
   "purpose": [
@@ -139,45 +139,6 @@
         "work": "https://openlibrary.org/works/OL45946470W",
         "edition": "https://openlibrary.org/books/OL62508063M/Tianna_and_Michelangelo%27s_Mask_of_a_Faun"
       }
-    },
-    {
-      "id": "book.lost_inca_gold",
-      "type": "Book",
-      "name": "Tianna and the Lost Inca Gold",
-      "series_position": 3,
-      "publication_status": "in development",
-      "date_published": null,
-      "canonical_url": "https://knowledge.tiannahowardadventures.com/books/lost-inca-gold/",
-      "protagonist_age": 14,
-      "description": "An upcoming historical adventure inspired by Atahualpa’s ransom and the legendary lost Inca treasure of the Llanganates Mountains.",
-      "historical_basis": "Atahualpa's imprisonment, ransom offer and execution in 1533, together with later Rumiñahui, Valverde and Llanganates traditions.",
-      "history_status": "The Llanganates hidden-treasure story is legendary and unverified.",
-      "fiction_boundary": "Tianna's investigation, the specific route and the story outcome are fictional or still in development.",
-      "safe_topic_terms": [
-        "Atahualpa",
-        "Inca ransom",
-        "Llanganates treasure legend",
-        "Derrotero de Valverde"
-      ]
-    },
-    {
-      "id": "book.vanishing_crown_jewels",
-      "type": "Book",
-      "name": "Tianna and the Vanishing Crown Jewels",
-      "series_position": 4,
-      "publication_status": "planned",
-      "date_published": null,
-      "canonical_url": "https://knowledge.tiannahowardadventures.com/books/vanishing-crown-jewels/",
-      "protagonist_age": "nearly 15",
-      "description": "A planned historical mystery inspired by the still-unsolved disappearance of the Irish Crown Jewels from Dublin Castle in 1907.",
-      "historical_basis": "The 1907 disappearance of the Irish Crown Jewels.",
-      "history_status": "Detailed historical thesis not yet audited for production metadata.",
-      "fiction_boundary": "The investigation and resolution will be fictional and remain in planning.",
-      "safe_topic_terms": [
-        "Irish Crown Jewels",
-        "Dublin Castle",
-        "1907 disappearance"
-      ]
     }
   ],
   "answer_units": [
@@ -205,6 +166,7 @@
     "unpublished Book 3 antagonist details",
     "unconfirmed release dates",
     "legacy Beale ASIN B0FG89GR4P and ISBN 9798289154712",
-    "unsupported historical certainty"
+    "unsupported historical certainty",
+    "unpublished Book 3 and Book 4 titles, character ages, settings and plot details"
   ]
 }
