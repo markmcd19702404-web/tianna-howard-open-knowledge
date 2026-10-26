@@ -1,5 +1,14 @@
 # Bundle Update Log
 
+## 2026-10-26: Unpublished-book privacy hardening
+
+* Restricted the public OKF catalogue, book index and series order to the two published books.
+* Replaced the two retained draft records with generic in-development notices that disclose no title, age, setting or plot premise.
+* Updated the build filter so future generation includes published Book entities only.
+* Added the unpublished-title, age, setting and plot boundary to the public metadata policy.
+* This source-level correction prevents a future build from silently restoring material removed from the deployed Knowledge Centre on 25 October.
+
+
 ## 2026-10-06: Beale Readers’ Favorite editorial review
 
 * Added the supplied Kamil Wróbel 5/5 Readers’ Favorite review and official Five Stars seal to the public Beale book page. The exact attributed quote is visible, and the Book JSON-LD now references one individual Review with 5/5 Rating, reviewer and publisher. No AggregateRating or Amazon review claim.
