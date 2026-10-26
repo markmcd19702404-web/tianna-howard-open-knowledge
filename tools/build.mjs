@@ -56,7 +56,7 @@ function write(relativePath, content) {
 
 const entities = Object.fromEntries(source.entities.map((entity) => [entity.id, entity]));
 const series = entities['series.tianna_howard_adventures'];
-const books = source.entities.filter((entity) => entity.type === 'Book').sort((a, b) => a.series_position - b.series_position);
+const books = source.entities.filter((entity) => entity.type === 'Book' && entity.publication_status === 'published').sort((a, b) => a.series_position - b.series_position);
 
 write('index.md', `---
 okf_version: "0.2"
@@ -70,7 +70,7 @@ This bundle presents the public, spoiler-safe catalogue for M.L. Woodward and th
 
 * [M.L. Woodward](/author/ml-woodward.md) - Author of the Tianna Howard Adventures.
 * [Tianna Howard Adventures](/series/tianna-howard-adventures.md) - Historical fiction mysteries for readers aged 11–14.
-* [Books](/books/) - Published and announced books in series order.
+* [Books](/books/) - Published books in series order.
 * [Series facts](/answers/series-facts.md) - Concise answers to common questions.
 * [Content boundaries](/policies/content-boundaries.md) - Rules separating verified history, fiction and unpublished material.
 * [Official identities](/discovery/official-identities.md) - Canonical website, catalogue and profile links.
