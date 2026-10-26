@@ -26,13 +26,14 @@ The following material must not be inferred from or added to public metadata:
 * Lumen Codex structure
 * future artifact sequence
 * unpublished Book 3 antagonist details
+* unpublished Book 3 and Book 4 titles, character ages, settings and plot details
 * unconfirmed release dates
 * legacy Beale ASIN B0FG89GR4P and ISBN 9798289154712
 * unsupported historical certainty
 
 # Status handling
 
-Published books are stable concepts. Books in development or planning are draft concepts and must not be assigned unconfirmed publication dates, identifiers or final plot details.
+Published books are stable public concepts. Books in development or planning remain private and must not be added to public metadata until Mark explicitly approves their disclosure.
 
 # Related concepts
 
