@@ -33,8 +33,6 @@ The series is written by [M.L. Woodward](/author/ml-woodward.md).
 
 1. [Tianna and the Mystery of the Beale Treasure](/books/beale-treasure.md)
 2. [Tianna and Michelangelo’s Mask of a Faun](/books/mask-of-a-faun.md)
-3. [Tianna and the Lost Inca Gold](/books/lost-inca-gold.md)
-4. [Tianna and the Vanishing Crown Jewels](/books/vanishing-crown-jewels.md)
 
 # Accuracy boundary
 
