@@ -29,3 +29,4 @@ The books combine real history and global locations with codes, hidden evidence 
 * [Amazon author page](https://www.amazon.com/M-L-Woodward/e/B0FHFGQNXP)
 * [BookBub author page](https://www.bookbub.com/authors/m-l-woodward)
 * [Open Library author page](https://openlibrary.org/authors/OL16579341A/M.L._Woodward)
+* [LinkedIn author profile](https://www.linkedin.com/in/m-l-woodward-809961441)

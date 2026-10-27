@@ -42,13 +42,7 @@
    - Kindle ASIN: B0GMD8Q2SG
    - Paperback: B0GMJJDJ6V / ISBN 9798247548706
    - Hardcover: B0GMJD7FWN / ISBN 9798247553434
-
-## Announced future books
-
-3. Tianna and the Lost Inca Gold. In development, with no confirmed publication date. The current cover is temporary.
-   - Knowledge page: https://knowledge.tiannahowardadventures.com/books/lost-inca-gold/
-4. Tianna and the Vanishing Crown Jewels. Planned, with no confirmed publication date.
-   - Knowledge page: https://knowledge.tiannahowardadventures.com/books/vanishing-crown-jewels/
+   - Independent editorial review: 5/5 from Ruarc Hopley for Readers’ Favorite. Official review: https://readersfavorite.com/book-review/tianna-and-michelangelos-mask-of-a-faun. This is an editorial review, separate from customer ratings and contest awards.
 
 ## Accuracy rules
 
@@ -56,7 +50,7 @@
 - The real Mask of a Faun remains missing; the novel's outcome is fictional.
 - Echo is a hill mynah who mimics learned words and sounds but does not converse.
 - Reno is a cat and never speaks.
-- Tianna ages through the series: 12, 13, 14 and nearly 15 across Books 1–4.
+- Tianna is 12 in Book 1 and 13 in Book 2. Unpublished book details are excluded.
 - The retired Book 3 Llanganates title is not current.
 - Legacy Beale ASIN B0FG89GR4P and ISBN 9798289154712 are excluded from current metadata.
 - Draft2Digital/library ISBN mappings remain unresolved.
@@ -64,7 +58,7 @@
 ## Public machine-readable files
 
 - public-knowledge.json: spoiler-safe entity and answer data
-- The Beale book page includes an individual Review in its JSON-LD, separate from customer ratings.
+- Each published book page includes an individual Readers’ Favorite Review in its JSON-LD, linked to the corresponding Book and original external review. Editorial ratings are separate from customer ratings.
 
 ## Contact
 

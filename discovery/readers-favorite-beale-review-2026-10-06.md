@@ -1,3 +1,8 @@
+---
+type: "Reference"
+title: "Readers’ Favorite Beale review implementation, 6 October 2026"
+status: stable
+---
 # Readers’ Favorite Beale review implementation, 6 October 2026
 
 Campaign: TH-XMAS-2026. Item: TH-XMAS-2026-REVIEW-BEALE-001. Evidence observed: 6 October 2026. Status: Knowledge Centre page verified live; main Google Sites update prepared, not applied; indexing unverified. Next owner for Google Sites and indexing: M.L. Woodward / site operator. Next owner for organic review post: Tianna Marketing Operator.

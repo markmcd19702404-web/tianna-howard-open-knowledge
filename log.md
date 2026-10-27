@@ -1,5 +1,13 @@
 # Bundle Update Log
 
+## 2026-10-27: Editorial review evidence and author identity
+
+* Completed Faun’s visible Readers’ Favorite 5/5 attribution, original seal and individual Review JSON-LD using the original review as evidence.
+* Added matching Faun review evidence to the public JSON, llms.txt and Markdown book record.
+* Corrected the stale Beale external-review field in the reference export and added the existing LinkedIn author identity to the remaining source registers and Faun Person schema.
+* Removed outdated unpublished-book disclosures from llms.txt to match the existing public catalogue boundary.
+* Preserved canonical entity IDs and edition identifiers. No aggregate or customer rating was introduced.
+
 ## 2026-10-26: Unpublished-book privacy hardening
 
 * Restricted the public OKF catalogue, book index and series order to the two published books.

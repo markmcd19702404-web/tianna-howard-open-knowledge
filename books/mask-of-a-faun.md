@@ -48,6 +48,14 @@ Tianna, her investigation and the story's resolution are fictional.
 * [Open Library work](https://openlibrary.org/works/OL45946470W)
 * [Open Library edition](https://openlibrary.org/books/OL62508063M/Tianna_and_Michelangelo%27s_Mask_of_a_Faun)
 
+# Independent editorial review
+
+Readers’ Favorite: 5/5, reviewed by Ruarc Hopley.
+
+> “a fantastic global treasure hunt that will keep you glued from start to finish.”
+
+[Original Readers’ Favorite review](https://readersfavorite.com/book-review/tianna-and-michelangelos-mask-of-a-faun). This editorial review is separate from customer ratings.
+
 # Main website
 
 [Official book page](https://www.tiannahowardadventures.com/michelangelos-mask-of-a-faun)

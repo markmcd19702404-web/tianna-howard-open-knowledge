@@ -23,6 +23,8 @@ sources:
 * BookBub author: https://www.bookbub.com/authors/m-l-woodward
 * Open Library author: https://openlibrary.org/authors/OL16579341A/M.L._Woodward
 
+* LinkedIn author: https://www.linkedin.com/in/m-l-woodward-809961441
+
 # Series profiles
 
 * https://www.youtube.com/@TiannaHowardAdventures

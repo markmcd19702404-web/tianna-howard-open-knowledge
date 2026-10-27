@@ -111,7 +111,8 @@ The books combine real history and global locations with codes, hidden evidence 
 * [Official website](${source.identity_links.website})
 * [Amazon author page](${source.identity_links.amazon_author})
 * [BookBub author page](${source.identity_links.bookbub_author})
-* [Open Library author page](${source.identity_links.open_library_author})`);
+* [Open Library author page](${source.identity_links.open_library_author})
+${source.identity_links.linkedin_author ? `* [LinkedIn author profile](${source.identity_links.linkedin_author})` : ""}`);
 
 write('series/index.md', `# Series
 
@@ -196,6 +197,7 @@ ${book.fiction_boundary}
 
 ${editionTable}
 ${openLibrary}
+${(book.editorial_reviews ?? []).map(review => `# Independent editorial review\n\n${review.publication}: ${review.rating_value}/${review.best_rating}, reviewed by ${review.reviewer}.\n\n> “${review.excerpt}”\n\n${review.external_review_url ? `[Original editorial review](${review.external_review_url}). ` : ""}This editorial review is separate from customer ratings.\n`).join("\n")}
 # Main website
 
 ${book.canonical_url ? `[Official book page](${book.canonical_url})` : 'No separate main-site book page is recorded in the public catalogue.'}
@@ -272,6 +274,7 @@ write('discovery/official-identities.md', `${frontmatter({
 * Amazon author: ${source.identity_links.amazon_author}
 * BookBub author: ${source.identity_links.bookbub_author}
 * Open Library author: ${source.identity_links.open_library_author}
+${source.identity_links.linkedin_author ? `* LinkedIn author: ${source.identity_links.linkedin_author}` : ""}
 
 # Series profiles
 

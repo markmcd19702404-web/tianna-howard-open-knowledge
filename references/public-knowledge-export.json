@@ -1,7 +1,7 @@
 {
   "export_id": "public.tianna_howard_historical_fiction.v1",
-  "catalog_release": "0.15.2",
-  "prepared": "2026-10-26",
+  "catalog_release": "0.15.3",
+  "prepared": "2026-10-27",
   "language": "en",
   "visibility": "public_spoiler_safe",
   "purpose": [
@@ -22,7 +22,8 @@
       "https://www.pinterest.com/TiannaHowardAdventures/"
     ],
     "open_library_author": "https://openlibrary.org/authors/OL16579341A/M.L._Woodward",
-    "bookbub_author": "https://www.bookbub.com/authors/m-l-woodward"
+    "bookbub_author": "https://www.bookbub.com/authors/m-l-woodward",
+    "linkedin_author": "https://www.linkedin.com/in/m-l-woodward-809961441"
   },
   "entities": [
     {
@@ -89,9 +90,8 @@
           "best_rating": 5,
           "excerpt": "It is incredibly satisfying to watch a child’s sharp mind consistently outwit a dangerous crew of adults.",
           "book_page_review_url": "https://knowledge.tiannahowardadventures.com/books/beale-treasure/#readers-favorite-review",
-          "external_review_url": null,
-          "external_url_status": "Not independently verified as of 2026-10-06",
-          "evidence_observed": "2026-10-06"
+          "external_review_url": "https://readersfavorite.com/book-review/tianna-and-the-mystery-of-the-beale-treasure",
+          "evidence_observed": "2026-10-07"
         }
       ]
     },
@@ -133,7 +133,21 @@
       "open_library": {
         "work": "https://openlibrary.org/works/OL45946470W",
         "edition": "https://openlibrary.org/books/OL62508063M/Tianna_and_Michelangelo%27s_Mask_of_a_Faun"
-      }
+      },
+      "editorial_reviews": [
+        {
+          "id": "review.mask_of_a_faun.readers_favorite.ruarc_hopley",
+          "type": "independent_editorial_review",
+          "reviewer": "Ruarc Hopley",
+          "publication": "Readers’ Favorite",
+          "rating_value": 5,
+          "best_rating": 5,
+          "excerpt": "a fantastic global treasure hunt that will keep you glued from start to finish.",
+          "book_page_review_url": "https://knowledge.tiannahowardadventures.com/books/mask-of-a-faun/#readers-favorite-review",
+          "external_review_url": "https://readersfavorite.com/book-review/tianna-and-michelangelos-mask-of-a-faun",
+          "evidence_observed": "2026-10-27"
+        }
+      ]
     }
   ],
   "answer_units": [
