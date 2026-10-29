@@ -17,7 +17,7 @@ const labels = {
   '/history/michelangelo-mask-of-a-faun/': ['History', 'Michelangelo’s Mask of a Faun'],
   '/history/atahualpa-ransom/': ['History', 'Atahualpa’s Ransom'],
   '/reading-guides/': ['Reading guides'],
-  '/reading-guides/historical-mysteries-ages-11-14/': ['Reading guides', 'Historical Mystery Books for Readers Aged 11–14'],
+  '/reading-guides/historical-mysteries-ages-11-14/': ['Reading guides', 'Historical Mystery Books for Readers Aged 9–13'],
   '/reading-guides/adventures-based-on-real-history/': ['Reading guides', 'Middle-Grade Adventures Based on Real Unsolved History'],
   '/reading-guides/best-middle-grade-historical-mysteries/': ['Reading guides', 'Best Middle Grade Historical Mystery Books Compared']
 };

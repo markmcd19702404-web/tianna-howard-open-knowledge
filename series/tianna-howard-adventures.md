@@ -1,9 +1,9 @@
 ---
 type: "Book Series"
 title: "Tianna Howard Adventures"
-description: "The Tianna Howard Adventures are historical fiction mysteries by M.L. Woodward for readers aged 11–14, combining real history and global locations with codes, hidden evidence and fictional investigations."
+description: "The Tianna Howard Adventures are historical fiction mysteries by M.L. Woodward for readers aged 9–13, combining real history and global locations with codes, hidden evidence and fictional investigations."
 resource: "https://knowledge.tiannahowardadventures.com/series/"
-tags: ["book-series", "historical-fiction", "historical-adventure", "mystery", "ages-11-14"]
+tags: ["book-series", "historical-fiction", "historical-adventure", "mystery", "ages-9-13"]
 status: stable
 generated:
   by: process:catalog-to-okf
@@ -17,11 +17,11 @@ sources:
 ---
 # Definition
 
-The Tianna Howard Adventures are historical fiction mysteries by M.L. Woodward for readers aged 11–14, combining real history and global locations with codes, hidden evidence and fictional investigations.
+The Tianna Howard Adventures are historical fiction mysteries by M.L. Woodward for readers aged 9–13, combining real history and global locations with codes, hidden evidence and fictional investigations.
 
 # Audience and genre
 
-* Audience: Readers aged 11–14
+* Audience: Readers aged 9–13
 * Genres: Historical fiction, Historical adventure, Mystery, Action and adventure
 * Fantasy or magic: No
 

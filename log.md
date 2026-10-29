@@ -78,3 +78,7 @@
 
 * **Creation**: Created the separate OKF v0.2 bundle from the public knowledge catalogue.
 * **Validation**: Checked YAML frontmatter, required concept types, reserved files and internal links.
+
+## 29 October 2026 — audience positioning
+
+Mark selected ages 9–13 for both published books and reported updating Amazon descriptions. Updated current public copy, metadata, series answers, discovery exports and generator defaults. Existing URL slugs, character ages, identities and review quotations are preserved. This is author-selected positioning, not a new editorial age assessment.

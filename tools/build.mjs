@@ -69,7 +69,7 @@ This bundle presents the public, spoiler-safe catalogue for M.L. Woodward and th
 ## Core concepts
 
 * [M.L. Woodward](/author/ml-woodward.md) - Author of the Tianna Howard Adventures.
-* [Tianna Howard Adventures](/series/tianna-howard-adventures.md) - Historical fiction mysteries for readers aged 11–14.
+* [Tianna Howard Adventures](/series/tianna-howard-adventures.md) - Historical fiction mysteries for readers aged 9–13.
 * [Books](/books/) - Published books in series order.
 * [Series facts](/answers/series-facts.md) - Concise answers to common questions.
 * [Content boundaries](/policies/content-boundaries.md) - Rules separating verified history, fiction and unpublished material.
@@ -95,7 +95,7 @@ write('author/index.md', `# Author
 write('author/ml-woodward.md', `${frontmatter({
   type: 'Person',
   title: 'M.L. Woodward',
-  description: 'Author of the Tianna Howard Adventures, historical fiction mysteries for readers aged 11–14.',
+  description: 'Author of the Tianna Howard Adventures, historical fiction mysteries for readers aged 9–13.',
   resource: `${knowledgeBase}/author/`,
   tags: ['author', 'historical-fiction', 'middle-grade', 'tianna-howard']
 })}# Identity
@@ -116,14 +116,14 @@ ${source.identity_links.linkedin_author ? `* [LinkedIn author profile](${source.
 
 write('series/index.md', `# Series
 
-* [Tianna Howard Adventures](tianna-howard-adventures.md) - Historical fiction mysteries for readers aged 11–14.`);
+* [Tianna Howard Adventures](tianna-howard-adventures.md) - Historical fiction mysteries for readers aged 9–13.`);
 
 write('series/tianna-howard-adventures.md', `${frontmatter({
   type: 'Book Series',
   title: series.name,
   description: series.description,
   resource: `${knowledgeBase}/series/`,
-  tags: ['book-series', 'historical-fiction', 'historical-adventure', 'mystery', 'ages-11-14']
+  tags: ['book-series', 'historical-fiction', 'historical-adventure', 'mystery', 'ages-9-13']
 })}# Definition
 
 ${series.description}

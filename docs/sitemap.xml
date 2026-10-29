@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:video="http://www.google.com/schemas/sitemap-video/1.1">
-  <url><loc>https://knowledge.tiannahowardadventures.com/</loc><lastmod>2026-10-25</lastmod></url>
-  <url><loc>https://knowledge.tiannahowardadventures.com/author/</loc><lastmod>2026-10-07</lastmod></url>
-  <url><loc>https://knowledge.tiannahowardadventures.com/series/</loc><lastmod>2026-10-25</lastmod></url>
-  <url><loc>https://knowledge.tiannahowardadventures.com/books/</loc><lastmod>2026-10-24</lastmod></url>
-  <url><loc>https://knowledge.tiannahowardadventures.com/books/beale-treasure/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://knowledge.tiannahowardadventures.com/books/mask-of-a-faun/</loc><lastmod>2026-10-27</lastmod></url>
-  <url><loc>https://knowledge.tiannahowardadventures.com/history/</loc><lastmod>2026-09-12</lastmod></url>
-  <url><loc>https://knowledge.tiannahowardadventures.com/history/beale-ciphers/</loc><lastmod>2026-09-12</lastmod></url>
-  <url><loc>https://knowledge.tiannahowardadventures.com/history/michelangelo-mask-of-a-faun/</loc><lastmod>2026-09-12</lastmod></url>
-  <url><loc>https://knowledge.tiannahowardadventures.com/history/atahualpa-ransom/</loc><lastmod>2026-09-12</lastmod></url>
-  <url><loc>https://knowledge.tiannahowardadventures.com/reading-guides/</loc><lastmod>2026-09-12</lastmod></url>
-  <url><loc>https://knowledge.tiannahowardadventures.com/reading-guides/historical-mysteries-ages-11-14/</loc><lastmod>2026-09-12</lastmod></url>
-  <url><loc>https://knowledge.tiannahowardadventures.com/reading-guides/adventures-based-on-real-history/</loc><lastmod>2026-09-12</lastmod></url>
-  <url><loc>https://knowledge.tiannahowardadventures.com/reading-guides/best-middle-grade-historical-mysteries/</loc><lastmod>2026-09-12</lastmod></url>
-  <url><loc>https://knowledge.tiannahowardadventures.com/videos/</loc><lastmod>2026-10-12</lastmod></url>
+  <url><loc>https://knowledge.tiannahowardadventures.com/</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://knowledge.tiannahowardadventures.com/author/</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://knowledge.tiannahowardadventures.com/series/</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://knowledge.tiannahowardadventures.com/books/</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://knowledge.tiannahowardadventures.com/books/beale-treasure/</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://knowledge.tiannahowardadventures.com/books/mask-of-a-faun/</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://knowledge.tiannahowardadventures.com/history/</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://knowledge.tiannahowardadventures.com/history/beale-ciphers/</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://knowledge.tiannahowardadventures.com/history/michelangelo-mask-of-a-faun/</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://knowledge.tiannahowardadventures.com/history/atahualpa-ransom/</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://knowledge.tiannahowardadventures.com/reading-guides/</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://knowledge.tiannahowardadventures.com/reading-guides/historical-mysteries-ages-11-14/</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://knowledge.tiannahowardadventures.com/reading-guides/adventures-based-on-real-history/</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://knowledge.tiannahowardadventures.com/reading-guides/best-middle-grade-historical-mysteries/</loc><lastmod>2026-10-29</lastmod></url>
+  <url><loc>https://knowledge.tiannahowardadventures.com/videos/</loc><lastmod>2026-10-29</lastmod></url>
   <url>
     <loc>https://knowledge.tiannahowardadventures.com/videos/meet-tianna-howard/</loc>
-    <lastmod>2026-10-12</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/I4KDqnFglV8/maxresdefault.jpg</video:thumbnail_loc>
       <video:title>Meet Tianna Howard: Her Parents Have Vanished</video:title>
@@ -32,7 +32,7 @@
 
   <url>
     <loc>https://knowledge.tiannahowardadventures.com/videos/beale-ciphers/</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/PRM6cQdfAwQ/maxresdefault.jpg</video:thumbnail_loc>
       <video:title>The Beale Ciphers: Real Treasure or Brilliant Hoax?</video:title>
@@ -45,7 +45,7 @@
   </url>
   <url>
     <loc>https://knowledge.tiannahowardadventures.com/videos/lost-inca-treasure/</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/BvUnySyejsw/maxresdefault.jpg</video:thumbnail_loc>
       <video:title>This Lost Treasure Is Worth Billions (And Still Missing)</video:title>
@@ -58,7 +58,7 @@
   </url>
   <url>
     <loc>https://knowledge.tiannahowardadventures.com/videos/mask-of-a-faun/</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/kNf3rQ_-PmQ/maxresdefault.jpg</video:thumbnail_loc>
       <video:title>Finding the World's Most Famous Missing Sculpture</video:title>
@@ -71,7 +71,7 @@
   </url>
   <url>
     <loc>https://knowledge.tiannahowardadventures.com/videos/wwii-art-looting/</loc>
-    <lastmod>2026-09-14</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <video:video>
       <video:thumbnail_loc>https://i.ytimg.com/vi/VzrTT-69RJs/maxresdefault.jpg</video:thumbnail_loc>
       <video:title>The WWII Art Heist That Still Isn’t Over</video:title>
@@ -82,5 +82,5 @@
       <video:family_friendly>yes</video:family_friendly>
     </video:video>
   </url>
-  <url><loc>https://knowledge.tiannahowardadventures.com/resources/teacher-reader-activity-pack/</loc><lastmod>2026-09-12</lastmod></url>
+  <url><loc>https://knowledge.tiannahowardadventures.com/resources/teacher-reader-activity-pack/</loc><lastmod>2026-10-29</lastmod></url>
 </urlset>

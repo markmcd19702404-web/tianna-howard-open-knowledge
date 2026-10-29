@@ -1,3 +1,3 @@
 # Series
 
-* [Tianna Howard Adventures](tianna-howard-adventures.md) - Historical fiction mysteries for readers aged 11–14.
+* [Tianna Howard Adventures](tianna-howard-adventures.md) - Historical fiction mysteries for readers aged 9–13.

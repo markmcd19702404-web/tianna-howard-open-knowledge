@@ -1,7 +1,7 @@
 ---
 type: "Person"
 title: "M.L. Woodward"
-description: "Author of the Tianna Howard Adventures, historical fiction mysteries for readers aged 11–14."
+description: "Author of the Tianna Howard Adventures, historical fiction mysteries for readers aged 9–13."
 resource: "https://knowledge.tiannahowardadventures.com/author/"
 tags: ["author", "historical-fiction", "middle-grade", "tianna-howard"]
 status: stable

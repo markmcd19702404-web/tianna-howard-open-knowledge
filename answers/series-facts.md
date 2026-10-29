@@ -23,7 +23,7 @@ They are historical fiction inspired by real mysteries, people, places and event
 
 ## What age are the Tianna Howard Adventures for?
 
-The books are written primarily for readers aged 11–14 and are positioned as upper middle grade.
+The books are written primarily for readers aged 9–13 and are positioned as middle grade.
 
 ## Are the books fantasy?
 
