@@ -1,7 +1,7 @@
 {
   "export_id": "public.tianna_howard_historical_fiction.v1",
   "catalog_release": "0.15.3",
-  "prepared": "2026-10-27",
+  "prepared": "2026-10-30",
   "language": "en",
   "visibility": "public_spoiler_safe",
   "purpose": [
@@ -96,6 +96,53 @@
           "external_review_url": "https://readersfavorite.com/book-review/tianna-and-the-mystery-of-the-beale-treasure",
           "evidence_observed": "2026-10-07"
         }
+      ],
+      "retailer_links": [
+        {
+          "name": "Walmart",
+          "market": "US",
+          "url": "https://www.walmart.com/ip/18871058210",
+          "evidence": "Live listing checked 2026-10-30; sold and shipped by Walmart.com",
+          "format": "Paperback",
+          "isbn_13": "9798275826616",
+          "checked_at": "2026-10-30"
+        },
+        {
+          "name": "Bookshop.org",
+          "market": "US",
+          "url": "https://bookshop.org/p/books/tianna-and-the-mystery-of-the-beale-treasure-a-global-mystery-of-codes-courage-and-ancient-secrets-m-l-woodward/3ec7614db3466f01",
+          "evidence": "Matching ISBN listing checked 2026-10-30",
+          "format": "Paperback",
+          "isbn_13": "9798275826616",
+          "checked_at": "2026-10-30"
+        },
+        {
+          "name": "Waterstones",
+          "market": "UK",
+          "url": "https://www.waterstones.com/book/tianna-and-the-mystery-of-the-beale-treasure/m-l-woodward/9798275826616",
+          "evidence": "Author confirmed listing, GBP10.99 and usual dispatch within two weeks on 2026-10-30; automated retrieval blocked",
+          "format": "Paperback",
+          "isbn_13": "9798275826616",
+          "checked_at": "2026-10-30"
+        },
+        {
+          "name": "Foyles",
+          "market": "UK",
+          "url": "https://www.foyles.co.uk/book/tianna-and-the-mystery-of-the-beale-treasure/m-l-woodward/9798275826616",
+          "evidence": "Matching ISBN listing checked 2026-10-30; order from publisher; no shop stock",
+          "format": "Paperback",
+          "isbn_13": "9798275826616",
+          "checked_at": "2026-10-30"
+        },
+        {
+          "name": "Hatchards",
+          "market": "UK",
+          "url": "https://www.hatchards.co.uk/book/tianna-and-the-mystery-of-the-beale-treasure/m-l-woodward/9798275826616",
+          "evidence": "Matching ISBN listing checked 2026-10-30; order from publisher; no shop stock",
+          "format": "Paperback",
+          "isbn_13": "9798275826616",
+          "checked_at": "2026-10-30"
+        }
       ]
     },
     {
@@ -151,6 +198,17 @@
           "book_page_review_url": "https://knowledge.tiannahowardadventures.com/books/mask-of-a-faun/#readers-favorite-review",
           "external_review_url": "https://readersfavorite.com/book-review/tianna-and-michelangelos-mask-of-a-faun",
           "evidence_observed": "2026-10-27"
+        }
+      ],
+      "retailer_links": [
+        {
+          "name": "Walmart",
+          "market": "US",
+          "url": "https://www.walmart.com/ip/19632163944",
+          "evidence": "Matching ISBN listing checked 2026-10-30; sold and shipped by Walmart.com",
+          "format": "Paperback",
+          "isbn_13": "9798247548706",
+          "checked_at": "2026-10-30"
         }
       ]
     }

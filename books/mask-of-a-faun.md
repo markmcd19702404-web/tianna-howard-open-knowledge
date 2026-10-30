@@ -65,3 +65,9 @@ Readers’ Favorite: 5/5, reviewed by Ruarc Hopley.
 * [M.L. Woodward](/author/ml-woodward.md)
 * [Series facts](/answers/series-facts.md)
 * [Content boundaries](/policies/content-boundaries.md)
+
+# Other paperback buying options
+
+* US: [Walmart](https://www.walmart.com/ip/19632163944). Matching ISBN listing checked 2026-10-30; sold and shipped by Walmart.com.
+
+Online listings do not establish physical shop stock. Check retailer delivery estimates before ordering.

@@ -82,3 +82,6 @@
 
 - Real history videos: https://knowledge.tiannahowardadventures.com/videos/
 - Free teacher and reader activity pack: https://knowledge.tiannahowardadventures.com/resources/teacher-reader-activity-pack/
+
+## Paperback retailer availability
+The published book pages include additional country-labelled paperback buying links. Beale: Walmart and Bookshop.org (US), Waterstones, Foyles and Hatchards (UK). Faun: Walmart (US). These are online listings, not endorsements or proof of shop stock. See public-knowledge.json retailer_links for matching ISBNs, source URLs and verification notes.

@@ -82,3 +82,7 @@
 ## 29 October 2026 — audience positioning
 
 Mark selected ages 9–13 for both published books and reported updating Amazon descriptions. Updated current public copy, metadata, series answers, discovery exports and generator defaults. Existing URL slugs, character ages, identities and review quotations are preserved. This is author-selected positioning, not a new editorial age assessment.
+
+## 2026-10-30: Paperback retailer links
+
+Added country-labelled additional paperback links on the two published book pages and matching ISBN-specific records in both public data exports. Waterstones availability is author-confirmed; other listed pages were retrieved. Existing Amazon destinations, canonical URLs and review schema are preserved. No price, stock guarantee, affiliate tag or retailer endorsement was added.

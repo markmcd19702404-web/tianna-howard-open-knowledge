@@ -61,3 +61,13 @@ Kamil Wróbel reviewed *Tianna and the Mystery of the Beale Treasure* for Reader
 * [M.L. Woodward](/author/ml-woodward.md)
 * [Series facts](/answers/series-facts.md)
 * [Content boundaries](/policies/content-boundaries.md)
+
+# Other paperback buying options
+
+* US: [Walmart](https://www.walmart.com/ip/18871058210). Live listing checked 2026-10-30; sold and shipped by Walmart.com.
+* US: [Bookshop.org](https://bookshop.org/p/books/tianna-and-the-mystery-of-the-beale-treasure-a-global-mystery-of-codes-courage-and-ancient-secrets-m-l-woodward/3ec7614db3466f01). Matching ISBN listing checked 2026-10-30.
+* UK: [Waterstones](https://www.waterstones.com/book/tianna-and-the-mystery-of-the-beale-treasure/m-l-woodward/9798275826616). Author confirmed listing, GBP10.99 and usual dispatch within two weeks on 2026-10-30; automated retrieval blocked.
+* UK: [Foyles](https://www.foyles.co.uk/book/tianna-and-the-mystery-of-the-beale-treasure/m-l-woodward/9798275826616). Matching ISBN listing checked 2026-10-30; order from publisher; no shop stock.
+* UK: [Hatchards](https://www.hatchards.co.uk/book/tianna-and-the-mystery-of-the-beale-treasure/m-l-woodward/9798275826616). Matching ISBN listing checked 2026-10-30; order from publisher; no shop stock.
+
+Online listings do not establish physical shop stock. Check retailer delivery estimates before ordering.
