@@ -7,7 +7,8 @@
     window.gtag("event", name, Object.assign({
       link_url: link.href,
       link_text: (link.textContent || "").trim().slice(0, 100),
-      page_path: window.location.pathname
+      page_path: window.location.pathname,
+      transport_type: "beacon"
     }, details || {}));
   }
 
@@ -19,13 +20,26 @@
   function retailerFormat(link) {
     var edition = link.closest("article");
     var heading = edition && edition.querySelector("h3");
-    if (!heading) return "unknown";
-
-    var label = (heading.textContent || "").toLowerCase();
+    var label = ((heading && heading.textContent) || link.textContent || "").toLowerCase();
     if (label.indexOf("paperback") !== -1) return "paperback";
     if (label.indexOf("hardcover") !== -1) return "hardcover";
     if (label.indexOf("kindle") !== -1 || label.indexOf("ebook") !== -1) return "ebook";
+    // The separately listed independent retailers currently sell paperbacks.
+    if (link.closest("#other-retailers")) return "paperback";
     return "unknown";
+  }
+
+  function retailerName(hostname) {
+    switch (hostname.toLowerCase().replace(/^www\./, "")) {
+      case "amazon.com": return "amazon_us";
+      case "amazon.co.uk": return "amazon_uk";
+      case "walmart.com": return "walmart";
+      case "waterstones.com": return "waterstones";
+      case "foyles.co.uk": return "foyles";
+      case "hatchards.co.uk": return "hatchards";
+      case "bookshop.org": return "bookshop_org";
+      default: return null;
+    }
   }
 
   document.addEventListener("click", function (event) {
@@ -39,14 +53,20 @@
       return;
     }
 
-    var amazonMatch = url.pathname.match(/\/dp\/([A-Z0-9]{10})/i);
-    if (/^(www\.)?amazon\.(com|co\.uk)$/.test(url.hostname) && amazonMatch) {
-      sendEvent("retailer_click", link, {
-        retailer: url.hostname.endsWith(".co.uk") ? "amazon_uk" : "amazon_us",
+    var retailer = retailerName(url.hostname);
+    if (retailer) {
+      var details = {
+        retailer: retailer,
         book_id: currentBook(),
-        book_format: retailerFormat(link),
-        product_id: amazonMatch[1].toUpperCase()
-      });
+        book_format: retailerFormat(link)
+      };
+      var amazonMatch = url.pathname.match(/\/dp\/([A-Z0-9]{10})/i);
+      if (retailer.indexOf("amazon_") === 0) {
+        // Avoid counting a generic Amazon homepage link as a product click.
+        if (!amazonMatch) return;
+        details.product_id = amazonMatch[1].toUpperCase();
+      }
+      sendEvent("retailer_click", link, details);
       return;
     }
 
