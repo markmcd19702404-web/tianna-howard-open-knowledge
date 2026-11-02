@@ -38,6 +38,7 @@
       case "foyles.co.uk": return "foyles";
       case "hatchards.co.uk": return "hatchards";
       case "bookshop.org": return "bookshop_org";
+      case "booksamillion.com": return "books_a_million";
       default: return null;
     }
   }
