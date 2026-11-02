@@ -12,3 +12,14 @@
 :focus-visible{outline:3px solid var(--brown);outline-offset:4px}
 header :focus-visible,footer :focus-visible{outline-color:var(--gold2)}
 @media(prefers-reduced-motion:reduce){html{scroll-behavior:auto}}
+
+/* Two-book chooser within the independent historical mysteries comparison. */
+.tianna-book-choices{border-top:1px solid var(--line);margin-top:3.25rem;padding-top:.5rem}
+.tianna-book-grid{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:1rem;margin:1.5rem 0}
+.tianna-book-card{display:grid;grid-template-columns:100px minmax(0,1fr);align-items:start;gap:1rem;padding:1rem;border:1px solid var(--line);background:#faf7f1;font:1rem/1.6 var(--sans)}
+.tianna-book-card img{width:100%;height:auto;border:1px solid var(--line)}
+.tianna-book-card h3{font:700 1.3rem/1.25 var(--serif);margin:.3rem 0 .65rem}
+.tianna-book-card p{margin:.5rem 0}
+.tianna-book-label{font-size:.78rem;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--brown)}
+@media(max-width:850px){.tianna-book-grid{grid-template-columns:1fr}}
+@media(max-width:460px){.tianna-book-card{grid-template-columns:80px minmax(0,1fr);gap:.75rem;padding:.75rem}.tianna-book-card h3{font-size:1.14rem}}
