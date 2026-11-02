@@ -209,6 +209,15 @@
           "format": "Paperback",
           "isbn_13": "9798247548706",
           "checked_at": "2026-10-30"
+        },
+        {
+          "name": "Books-A-Million",
+          "market": "US",
+          "url": "https://www.booksamillion.com/p/Tianna-Michelangelos-Mask-Faun/M-L-Woodward/9798247548706",
+          "evidence": "Retailer listing supplied by author on 2026-11-02; price and stock not independently verified",
+          "format": "Paperback",
+          "isbn_13": "9798247548706",
+          "checked_at": "2026-11-02"
         }
       ]
     }
