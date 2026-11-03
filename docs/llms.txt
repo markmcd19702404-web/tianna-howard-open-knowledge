@@ -32,6 +32,7 @@
    - Kindle ASIN: B0G3NVVFDZ
    - Paperback: B0G3W6ZSQG / ISBN 9798275826616
    - Hardcover: B0G3WXW4C7 / ISBN 9798275835335
+   - Audiobook (ElevenReader): https://elevenreader.io/audiobooks/tianna-and-the-mystery-of-the-beale-treasure/pj_t5pinsLRqYa9XcFMjHc0
    - Independent editorial review: 5/5 from Kamil Wróbel for Readers’ Favorite. See the attributed excerpt and official seal on the Knowledge page. This is not an Amazon customer rating or a contest award; official review: https://readersfavorite.com/book-review/tianna-and-the-mystery-of-the-beale-treasure
 
 2. Tianna and Michelangelo's Mask of a Faun
@@ -42,6 +43,7 @@
    - Kindle ASIN: B0GMD8Q2SG
    - Paperback: B0GMJJDJ6V / ISBN 9798247548706
    - Hardcover: B0GMJD7FWN / ISBN 9798247553434
+   - Audiobook (ElevenReader): https://elevenreader.io/audiobooks/tianna-and-michelangelo-s-mask-of-a-faun/pj_mxCONrh1CJ3KdaFznsak
    - Independent editorial review: 5/5 from Ruarc Hopley for Readers’ Favorite. Official review: https://readersfavorite.com/book-review/tianna-and-michelangelos-mask-of-a-faun. This is an editorial review, separate from customer ratings and contest awards.
 
 ## Accuracy rules
@@ -81,7 +83,16 @@
 ## Videos and free learning resources
 
 - Real history videos: https://knowledge.tiannahowardadventures.com/videos/
+   - Featured wartime art Shorts: https://www.youtube.com/watch?v=Cw5A0oq-FC4 ; https://www.youtube.com/watch?v=TSMGwBMrHoY ; https://www.youtube.com/watch?v=_wo6GIAZ2hk
 - Free teacher and reader activity pack: https://knowledge.tiannahowardadventures.com/resources/teacher-reader-activity-pack/
 
 ## Paperback retailer availability
 The published book pages include additional country-labelled paperback buying links. Beale: Walmart and Bookshop.org (US), Waterstones, Foyles and Hatchards (UK). Faun: Walmart (US). These are online listings, not endorsements or proof of shop stock. See public-knowledge.json retailer_links for matching ISBNs, source URLs and verification notes.
+
+## Legacy page links
+
+- /books/beale/ now forwards to /books/beale-treasure/.
+- /books/faun/ now forwards to /books/mask-of-a-faun/.
+- /real-places/ now forwards to /history/.
+- /press/ now forwards to the public For Schools & Media page on the main website.
+- These are currently HTML/browser redirects rather than confirmed HTTP 301 responses.
