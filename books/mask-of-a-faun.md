@@ -56,6 +56,10 @@ Readers’ Favorite: 5/5, reviewed by Ruarc Hopley.
 
 [Original Readers’ Favorite review](https://readersfavorite.com/book-review/tianna-and-michelangelos-mask-of-a-faun). This editorial review is separate from customer ratings.
 
+# Audiobook
+
+A narrated edition is available on [ElevenReader](https://elevenreader.io/audiobooks/tianna-and-michelangelo-s-mask-of-a-faun/pj_mxCONrh1CJ3KdaFznsak). It is published separately from the Kindle and print editions.
+
 # Main website
 
 [Official book page](https://www.tiannahowardadventures.com/michelangelos-mask-of-a-faun)
