@@ -1,7 +1,7 @@
 {
   "export_id": "public.tianna_howard_historical_fiction.v1",
-  "catalog_release": "0.15.3",
-  "prepared": "2026-10-30",
+  "catalog_release": "0.15.4",
+  "prepared": "2026-11-04",
   "language": "en",
   "visibility": "public_spoiler_safe",
   "purpose": [
@@ -140,7 +140,12 @@
           "isbn_13": "9798275826616",
           "checked_at": "2026-10-30"
         }
-      ]
+      ],
+      "audiobook": {
+        "platform": "ElevenReader",
+        "url": "https://elevenreader.io/audiobooks/tianna-and-the-mystery-of-the-beale-treasure/pj_t5pinsLRqYa9XcFMjHc0",
+        "availability": "published"
+      }
     },
     {
       "id": "book.mask_of_a_faun",
@@ -205,7 +210,12 @@
           "isbn_13": "9798247548706",
           "checked_at": "2026-10-30"
         }
-      ]
+      ],
+      "audiobook": {
+        "platform": "ElevenReader",
+        "url": "https://elevenreader.io/audiobooks/tianna-and-michelangelo-s-mask-of-a-faun/pj_mxCONrh1CJ3KdaFznsak",
+        "availability": "published"
+      }
     }
   ],
   "answer_units": [
