@@ -52,6 +52,10 @@ Kamil Wróbel reviewed *Tianna and the Mystery of the Beale Treasure* for Reader
 * [Open Library work](https://openlibrary.org/works/OL45946355W)
 * [Open Library edition](https://openlibrary.org/books/OL62507939M/Tianna_and_the_Mystery_of_the_Beale_Treasure)
 
+# Audiobook
+
+A narrated edition is available on [ElevenReader](https://elevenreader.io/audiobooks/tianna-and-the-mystery-of-the-beale-treasure/pj_t5pinsLRqYa9XcFMjHc0). It is published separately from the Kindle and print editions.
+
 # Main website
 
 [Official book page](https://www.tiannahowardadventures.com/the-mystery-of-the-beale-treasure)
