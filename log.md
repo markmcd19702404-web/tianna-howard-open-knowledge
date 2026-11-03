@@ -86,3 +86,12 @@ Mark selected ages 9–13 for both published books and reported updating Amazon 
 ## 2026-10-30: Paperback retailer links
 
 Added country-labelled additional paperback links on the two published book pages and matching ISBN-specific records in both public data exports. Waterstones availability is author-confirmed; other listed pages were retrieved. Existing Amazon destinations, canonical URLs and review schema are preserved. No price, stock guarantee, affiliate tag or retailer endorsement was added.
+
+## 2026-11-04: Public video, audiobook and link maintenance
+
+* Preserved the author's ages 9–13 positioning across both published books and the established reading-guide URL. No unpublished manuscript or future-title material was disclosed.
+* Verified four repaired legacy Knowledge Centre aliases: `/books/beale/`, `/books/faun/`, `/real-places/` and `/press/`. Browser redirects lead to the appropriate published pages; no server-level HTTP 301 is claimed.
+* Verified both public ElevenReader audiobook listings and added links to the Beale and Faun book pages, machine-readable catalogue, separate reference export, Markdown book records and `llms.txt`. The audiobooks are separate from Amazon Kindle and print editions.
+* Added three public, verified World War II art-history Shorts to the video index and linked them from the Faun book page. Did not publish private marketing analytics, paid-traffic figures, account permissions or assumptions about book-sales attribution.
+* Updated sitemap lastmod for pages whose public content changed. Retained existing author interview, editorial review links, retailer links, ASINs, ISBNs, canonicals and review structured data.
+* The main Google Sites website was not edited here. The previously published 9–13 revisions were independently checked; two older 11–14 text references remain on its book pages and require correction on that separate platform.
