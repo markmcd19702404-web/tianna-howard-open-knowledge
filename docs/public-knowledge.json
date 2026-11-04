@@ -1,6 +1,6 @@
 {
   "export_id": "public.tianna_howard_historical_fiction.v1",
-  "catalog_release": "0.15.4",
+  "catalog_release": "0.15.5",
   "prepared": "2026-11-04",
   "language": "en",
   "visibility": "public_spoiler_safe",
@@ -148,7 +148,25 @@
         "platform": "ElevenReader",
         "url": "https://elevenreader.io/audiobooks/tianna-and-the-mystery-of-the-beale-treasure/pj_t5pinsLRqYa9XcFMjHc0",
         "availability": "published"
-      }
+      },
+      "library_promotions": [
+        {
+          "promotion_id": "oclc_cloudlibrary_winter_reading_2026",
+          "name": "OCLC cloudLibrary Winter Reading 2026",
+          "partner": "cloudLibrary",
+          "distributor": "Draft2Digital",
+          "isbn_13": "9798235064355",
+          "discount_percent": 30,
+          "discount_applied_to": "library price by cloudLibrary; no author price change required",
+          "promotion_start": "2026-12-01",
+          "promotion_end": "2026-12-31",
+          "submission_status": "submitted",
+          "placement_status": "not_confirmed",
+          "submitted_at_displayed": "2026-11-03T19:37:54",
+          "submission_evidence": "D2D Winter Reading 2026 submission confirmation screenshot supplied 2026-11-04",
+          "notes": "Submission recorded, eligible titles shown; promotion criteria must be met. Do not claim confirmed feature placement or purchases."
+        }
+      ]
     },
     {
       "id": "book.mask_of_a_faun",
@@ -229,7 +247,25 @@
         "platform": "ElevenReader",
         "url": "https://elevenreader.io/audiobooks/tianna-and-michelangelo-s-mask-of-a-faun/pj_mxCONrh1CJ3KdaFznsak",
         "availability": "published"
-      }
+      },
+      "library_promotions": [
+        {
+          "promotion_id": "oclc_cloudlibrary_winter_reading_2026",
+          "name": "OCLC cloudLibrary Winter Reading 2026",
+          "partner": "cloudLibrary",
+          "distributor": "Draft2Digital",
+          "isbn_13": "9798231568697",
+          "discount_percent": 30,
+          "discount_applied_to": "library price by cloudLibrary; no author price change required",
+          "promotion_start": "2026-12-01",
+          "promotion_end": "2026-12-31",
+          "submission_status": "submitted",
+          "placement_status": "not_confirmed",
+          "submitted_at_displayed": "2026-11-03T19:39:42",
+          "submission_evidence": "D2D Winter Reading 2026 submission confirmation screenshot supplied 2026-11-04",
+          "notes": "Submission recorded, eligible titles shown; promotion criteria must be met. Do not claim confirmed feature placement or purchases."
+        }
+      ]
     }
   ],
   "answer_units": [
