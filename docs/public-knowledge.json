@@ -1,6 +1,6 @@
 {
   "export_id": "public.tianna_howard_historical_fiction.v1",
-  "catalog_release": "0.15.5",
+  "catalog_release": "0.15.6",
   "prepared": "2026-11-04",
   "language": "en",
   "visibility": "public_spoiler_safe",
@@ -161,10 +161,11 @@
           "promotion_start": "2026-12-01",
           "promotion_end": "2026-12-31",
           "submission_status": "submitted",
-          "placement_status": "not_confirmed",
+          "placement_status": "presumed_included_unless_notified_ineligible",
           "submitted_at_displayed": "2026-11-03T19:37:54",
           "submission_evidence": "D2D Winter Reading 2026 submission confirmation screenshot supplied 2026-11-04",
-          "notes": "Submission recorded, eligible titles shown; promotion criteria must be met. Do not claim confirmed feature placement or purchases."
+          "notes": "D2D promotion form instructs: assume submitted title will be included unless requirements are not met. Submission is recorded and titles were eligible to submit. This indicates presumed participation in the December discount promotion, not guaranteed featured merchandising placement, visibility, or purchases. No change to normal library list price required.",
+          "inclusion_policy": "Please assume that your submitted title will be included in the sale, UNLESS REQUIREMENTS NOT MET."
         }
       ]
     },
@@ -260,10 +261,11 @@
           "promotion_start": "2026-12-01",
           "promotion_end": "2026-12-31",
           "submission_status": "submitted",
-          "placement_status": "not_confirmed",
+          "placement_status": "presumed_included_unless_notified_ineligible",
           "submitted_at_displayed": "2026-11-03T19:39:42",
           "submission_evidence": "D2D Winter Reading 2026 submission confirmation screenshot supplied 2026-11-04",
-          "notes": "Submission recorded, eligible titles shown; promotion criteria must be met. Do not claim confirmed feature placement or purchases."
+          "notes": "D2D promotion form instructs: assume submitted title will be included unless requirements are not met. Submission is recorded and titles were eligible to submit. This indicates presumed participation in the December discount promotion, not guaranteed featured merchandising placement, visibility, or purchases. No change to normal library list price required.",
+          "inclusion_policy": "Please assume that your submitted title will be included in the sale, UNLESS REQUIREMENTS NOT MET."
         }
       ]
     }
